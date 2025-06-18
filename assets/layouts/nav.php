@@ -23,6 +23,7 @@ $base_url = "/petfoot_landing";
     <!--ALL CSS-->
     <link rel="stylesheet" href="<?php echo $base_url; ?>/assets/css/nav.css">
     <link rel="stylesheet" href="<?php echo $base_url; ?>/assets/css/index.css">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>/assets/css/footer.css">
 
 
 
@@ -51,6 +52,3 @@ $base_url = "/petfoot_landing";
         </div>
     </header>
     <script src="<?php echo $base_url; ?>/assets/js/menu.js"></script>
-</body>
-
-</html>

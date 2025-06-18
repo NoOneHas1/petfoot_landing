@@ -1,0 +1,27 @@
+.footer {
+    background-color: var(--second_color);
+    color: var(--fifth_color);
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 0.9rem;
+}
+
+.footer__logo img {
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.footer__links {
+    margin-top: 10px;
+}
+
+.footer__links a {
+    color: var(--fifth_color);
+    margin: 0 10px;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer__links a:hover {
+    color: var(--first_color);
+}
