@@ -72,7 +72,7 @@
             </div>
             <div class="description__about">
                 <div class="image-center">
-                    <img src="assets/images/about/cali.png" alt="Cali" />
+                    <img src="assets/images/about/about-cat.png" alt="Gato feliz" />
                 </div>
 
                 <div class="text-left">

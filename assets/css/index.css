@@ -168,6 +168,7 @@
     align-items: center;
     gap: 9rem;
     margin-top: 80px;
+    margin-bottom: -20px;
     flex-wrap: wrap; /* Para que se vea bien en pantallas pequeñas */
   }
   
@@ -179,7 +180,7 @@
   .text-left h2{
     font-size: 2rem;
     color: var(--fourth_color);
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
   }
   
   .description__about .image-center {
@@ -189,7 +190,7 @@
   
   .image-center img {
     max-width: 265px;
-    height: 280px;
+    height: 260px;
   }
   
   .description__about p {
