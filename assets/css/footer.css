@@ -1,9 +1,10 @@
 .footer {
-    background-color: var(--second_color);
+    background-color: var(--third_color);
     color: var(--fifth_color);
     text-align: center;
     padding: 30px 20px;
     font-size: 0.9rem;
+    margin-top: -100px;
 }
 
 .footer__logo img {

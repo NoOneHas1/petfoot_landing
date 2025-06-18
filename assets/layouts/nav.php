@@ -42,9 +42,9 @@ $base_url = "/petfoot_landing";
             <div class="menu">
                 <nav class="links">
                     <ul>
-                        <li><a href="#" id="inicio">Inicio</a></li>
-                        <li><a href="#" id="nosotros">¿Quienes somos?</a></li>
-                        <li><a href="#" id="obras">¿Qué hacemos?</a></li>
+                        <li><a href="#home" id="inicio">Inicio</a></li>
+                        <li><a href="#service" id="nosotros">¿Qué hacemos?</a></li>
+                        <li><a href="#about" id="obras">¿Quienes somos?</a></li>
                     </ul>
                 </nav>
                 <a href="#" class="btn__start" id="start">Empieza ya!</a>

@@ -4,7 +4,7 @@
 
     <!--INICIO-->
     <!--Portada de inicio-->
-    <div class="container__cover div__offset">
+    <div id="home" class="container__cover div__offset">
         <div class="cover">
             <section class="text__cover">
                 <h1>CUIDAMOS LO <br> QUE MAS AMAS</h1>
@@ -19,7 +19,7 @@
 
     <!--SERVICIOS-->
 
-    <div class="container__service container__card-primary div__offset">
+    <div id="service" class="container__service container__card-primary div__offset">
         <div class="service card__primary">
             <div class="text__service text__card-primary">
                 <p>¿QUE HACEMOS?</p>
@@ -48,7 +48,7 @@
     </div>
 
     <!--Quienes somos-->
-    <div class="container__about container__card-primary div__offset">
+    <div id="about" class="container__about container__card-primary div__offset">
         <div class="about card__primary">
             <div class="text__about text__card-primary">
                 <p>¿QUIENES SOMOS?</p>
